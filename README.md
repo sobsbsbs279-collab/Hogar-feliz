@@ -261,8 +261,8 @@
     </div>
 
     <footer id="contacto">
-        <p>📞 Contáctanos: contacto@hogarfeliz.com</p>
-        <p>📍 Dirección: Av. Siempre Viva 123, Ciudad Feliz</p>
+        <p>📞 0980400237Contáctanos:0980400237  contacto@hogarfeliz.com</p>
+        <p>📍 Dirección: Av. Atahualpa, Ciudad Riobamba</p>
         <p>© 2025 Hogar Feliz. Todos los derechos reservados.</p>
     </footer>
 
